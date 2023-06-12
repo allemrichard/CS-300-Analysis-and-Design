@@ -16,4 +16,4 @@ Throughout this course, it definitely improved and expanded my understanding and
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
 
-It kept with OOP, and held standard practice expectations with comments and naming for better understanding and readability. In addition, with how the program is set up, it can be adapted to take in a different set or size of classes for a different college major, or it can also be adapted to take in different types of values. 
+It kept with OOP, and held standard practice expectations with comments and naming for understanding and readability. In addition, with how the program is set up, it can be adapted to take in a different set or size of classes for a different college major, or it can also be adapted to take in different types of values. 
